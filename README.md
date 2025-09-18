@@ -1,7 +1,7 @@
 ## Hi there, I'm Xin Yie 👋
 
-🎓 **Biotech Graduate | Aspiring Data Professional | Master of Data Science Candidate**  
-🌏 Based in Malaysia | Working full-time while studying full-time  
+🎓 **Aspiring Data Professional | Master of Data Science Candidate**  
+🌏 Based in Malaysia   
 📊 Passionate about using data to solve real-world problems  
 
 ---
