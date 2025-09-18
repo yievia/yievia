@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a former research assistant turned data enthusiast, currently pursuing a **Master of Data Science (Universiti Malaya)** while working full-time in **Product Development**. With a background in biotechnology and scientific reporting, I thrive on making sense of complex data and translating it into actionable insights.
+With a background in biotechnology and scientific reporting, I thrive on making sense of complex data and translating it into actionable insights.
 
 My learning journey has been hands-on—I've completed industry-focused projects covering customer churn, insurance modeling, content analysis, and more. I enjoy building predictive models, performing statistical analyses, and creating visualizations that tell compelling data stories.
 
