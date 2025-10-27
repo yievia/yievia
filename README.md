@@ -1,6 +1,6 @@
 ## Hi there, I'm Xin Yie 👋
 
-🎓 **Aspiring Data Professional | Master of Data Science Candidate**  
+🎓 **Aspiring Data Professional**  
 🌏 Based in Malaysia   
 📊 Passionate about using data to solve real-world problems  
 
@@ -8,15 +8,15 @@
 
 ## 🚀 About Me
 
-With a background in biotechnology and scientific reporting, I thrive on making sense of complex data and translating it into actionable insights.
+With a background in biotechnology and scientific reporting, my goal is to bridge scientific rigor and analytical creativity — using data to explain why things happen and predict what happens next.
 
-My learning journey has been hands-on—I've completed industry-focused projects covering customer churn, insurance modeling, content analysis, and more. I enjoy building predictive models, performing statistical analyses, and creating visualizations that tell compelling data stories.
+I’ve built and analyzed models across industries — from customer churn and insurance claims to content engagement and agricultural yield. I’m driven by curiosity, structure, and the impact data can make when translated into real-world decisions.
 
 ---
 
 ## 🧠 Core Skills
 
-- **Languages & Tools:** Python, R, SQL, Excel, Git  
+- **Languages & Tools:** Python, R, SQL, Excel, Git, PowerBI 
 - **Libraries:** pandas, NumPy, scikit-learn, Matplotlib, Seaborn  
 - **Techniques:** EDA, Classification, Clustering, Regression, Hypothesis Testing, PCA  
 - **Other:** Agile, Google-Certified Project Management, Scientific Documentation
@@ -24,6 +24,11 @@ My learning journey has been hands-on—I've completed industry-focused projects
 ---
 
 ## 📌 Featured Projects
+
+🔹 [Recipe Site Traffic Prediction (Machine Learning + KPI)](#)  
+> Classified high-traffic recipes using Logistic Regression, Decision Tree, and Random Forest.
+> Defined a business KPI — High Traffic Conversion Rate (HTCR) — to align model precision with strategy.
+→ Best Model: Logistic Regression (Precision = 0.88, HTCR = 7.13)
 
 🔹 [Telecom Customer Churn Analysis](#)  
 > Predictive model to identify customers at risk of churn using billing and usage patterns.  
@@ -49,9 +54,10 @@ My learning journey has been hands-on—I've completed industry-focused projects
 
 ## 📈 Currently Exploring
 
-- Streamlit App Deployment  
-- Data storytelling & dashboarding with Tableau/Power BI  
-- Deepening my SQL and model interpretability skills  
+- Streamlit & dashboard deployment
+- Data storytelling with Tableau and Power BI
+- Model interpretability (SHAP, feature importance)
+- Data pipelines & workflow automation
 
 ---
 
@@ -62,4 +68,4 @@ My learning journey has been hands-on—I've completed industry-focused projects
 
 ---
 
-_Thanks for visiting! Let’s connect and collaborate on impactful data projects._ 🙌
+_Thanks for visiting! Let’s connect and collaborate on impactful data projects!_
