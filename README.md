@@ -25,16 +25,16 @@ I’ve built and analyzed models across industries — from customer churn and i
 
 ## 📌 Featured Projects
 
-🔹 [Recipe Site Traffic Prediction (Machine Learning + KPI)](#)  
+🔹 [Recipe Site Traffic Prediction (Machine Learning + KPI)](https://github.com/yievia/recipe-traffic-prediction)  
 > Classified high-traffic recipes using Logistic Regression, Decision Tree, and Random Forest.
 > Defined a business KPI — High Traffic Conversion Rate (HTCR) — to align model precision with strategy.
 → Best Model: Logistic Regression (Precision = 0.88, HTCR = 7.13)
 
-🔹 [Telecom Customer Churn Analysis](#)  
+🔹 [Telecom Customer Churn Analysis](https://github.com/yievia/telecom-customer-churn)  
 > Predictive model to identify customers at risk of churn using billing and usage patterns.  
 > _→ F1 Score: 0.85 | Key tools: Python, Random Forest, Seaborn_
 
-🔹 [Insurance Claim Outcome Modeling](#)  
+🔹 [Insurance Claim Outcome Modeling](https://github.com/yievia/car-insurance-claim-predictor)  
 > Built classifiers to predict insurance claims and explored risk segmentation.  
 > _→ Accuracy > 75% | SMOTE for class balancing_
 
@@ -42,10 +42,10 @@ I’ve built and analyzed models across industries — from customer churn and i
 > EDA and visualization of global trends across genres, ratings, and durations.  
 > _→ Clear dashboards to support content strategy decisions_
 
-🔹 [Penguin Clustering (PCA + K-Means)](#)  
+🔹 [Penguin Clustering (PCA + K-Means)](https://github.com/yievia/penguin-species-clustering)  
 > Unsupervised learning project to classify species based on biometric traits.
 
-🔹 [Crop Yield Prediction (Regression)](#)  
+🔹 [Crop Yield Prediction (Regression)](https://github.com/yievia/sowing-success-crop-prediction)  
 > Modeled yield based on environmental factors to support precision agriculture.
 
 > 🧠 More projects available in the [Repositories](https://github.com/yievia?tab=repositories)
