@@ -25,6 +25,9 @@ I’ve built and analyzed models across industries — from customer churn and i
 
 ## 📌 Featured Projects
 
+🔹 [Logistics Inventory Data Analysis (SQL + PowerBI)](https://github.com/yievia/logistics-inventory-data-analysis)
+> SQL and Power BI analysis of shipment lead times, delay rates, inventory days, and SKU performance for a retail logistics context.
+
 🔹 [Recipe Site Traffic Prediction (Machine Learning + KPI)](https://github.com/yievia/recipe-traffic-prediction)  
 > Classified high-traffic recipes using Logistic Regression, Decision Tree, and Random Forest.
 > Defined a business KPI — High Traffic Conversion Rate (HTCR) — to align model precision with strategy.
@@ -32,15 +35,15 @@ I’ve built and analyzed models across industries — from customer churn and i
 
 🔹 [Telecom Customer Churn Analysis](https://github.com/yievia/telecom-customer-churn)  
 > Predictive model to identify customers at risk of churn using billing and usage patterns.  
-> _→ F1 Score: 0.85 | Key tools: Python, Random Forest, Seaborn_
+> F1 Score: 0.85 | Key tools: Python, Random Forest, Seaborn_
 
 🔹 [Insurance Claim Outcome Modeling](https://github.com/yievia/car-insurance-claim-predictor)  
 > Built classifiers to predict insurance claims and explored risk segmentation.  
-> _→ Accuracy > 75% | SMOTE for class balancing_
+> Accuracy > 75% | SMOTE for class balancing_
 
 🔹 [Netflix Content Trends](#)  
 > EDA and visualization of global trends across genres, ratings, and durations.  
-> _→ Clear dashboards to support content strategy decisions_
+> Clear dashboards to support content strategy decisions_
 
 🔹 [Penguin Clustering (PCA + K-Means)](https://github.com/yievia/penguin-species-clustering)  
 > Unsupervised learning project to classify species based on biometric traits.
