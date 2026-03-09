@@ -1,16 +1,16 @@
 ## Hi there, I'm Xin Yie 👋
 
-🎓 **Master of Data Science student at Universiti Malaya**  
+🎓 **MSc Data Science, Universiti Malaya**  
 🌏 Based in Malaysia   
-📊 Interested in data science, machine learning, and analytics for real-world decision making 
+📊 Data science, machine learning, and analytics for real-world decision making
 
 ---
 
 ## 🚀 About Me
 
-With a background in biotechnology and scientific research, I focus on applying data science methods to understand complex systems and support practical decision making.
+With a background in biotechnology and scientific research, I apply data science methods to analyze complex systems and support data-driven decisions.
 
-My work spans econometric modeling, machine learning, and data analytics, combining structured analysis with domain knowledge. I enjoy building reproducible workflows and translating data insights into actionable strategies.
+My work spans time-series modeling, machine learning, and data analytics, combining structured analysis with domain knowledge. I focus on building reproducible workflows, interpretable models, and practical analytics solutions.
 
 ---
 
