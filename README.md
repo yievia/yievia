@@ -1,29 +1,38 @@
 ## Hi there, I'm Xin Yie 👋
 
-🎓 **Aspiring Data Professional**  
+🎓 **Master of Data Science student at Universiti Malaya**  
 🌏 Based in Malaysia   
-📊 Passionate about using data to solve real-world problems  
+📊 Interested in data science, machine learning, and analytics for real-world decision making 
 
 ---
 
 ## 🚀 About Me
 
-With a background in biotechnology and scientific reporting, my goal is to bridge scientific rigor and analytical creativity — using data to explain why things happen and predict what happens next.
+With a background in biotechnology and scientific research, I focus on applying data science methods to understand complex systems and support practical decision making.
 
-I’ve built and analyzed models across industries — from customer churn and insurance claims to content engagement and agricultural yield. I’m driven by curiosity, structure, and the impact data can make when translated into real-world decisions.
+My work spans econometric modeling, machine learning, and data analytics, combining structured analysis with domain knowledge. I enjoy building reproducible workflows and translating data insights into actionable strategies.
 
 ---
 
 ## 🧠 Core Skills
 
-- **Languages & Tools:** Python, R, SQL, Excel, Git, PowerBI 
-- **Libraries:** pandas, NumPy, scikit-learn, Matplotlib, Seaborn  
-- **Techniques:** EDA, Classification, Clustering, Regression, Hypothesis Testing, PCA  
+- **Languages & Tools:** Python, R, SQL
+- **Libraries:** Pandas, NumPy, Scikit-learn, Statsmodels, Matplotlib, Seaborn
+- **Data & BI Tools:** Power BI, Excel, Jupyter Notebook, MySQL Workbench
+- **Tools & Platforms:** Git, VS Code
+- **Techniques:** Data Cleaning, Feature Engineering, Machine Learning (Classification), Time Series Forecasting (ARIMA, ETS), Econometric Modeling (ARDL, VAR), SQL Window Functions, Data Visualization  
 - **Other:** Agile, Google-Certified Project Management, Scientific Documentation
 
 ---
 
 ## 📌 Featured Projects
+
+🔹 [Fuel Price Pass-Through & Inflation in Malaysia](https://github.com/yievia/fuel-subsidy-pass-through-malaysia)  
+> Research project analyzing how global oil prices and exchange rates influence Malaysian fuel prices and transport inflation.
+> Built multi-source dataset integrating oil prices, FX rates, fuel prices, and CPI
+> Developed time-series forecasting models (ARIMA, ETS)
+> Estimated pass-through effects using ARDL and VAR models
+> Evaluated models using RMSE, MAE, and MAPE
 
 🔹 [Logistics Inventory Data Analysis (SQL + PowerBI)](https://github.com/yievia/logistics-inventory-data-analysis)
 > SQL and Power BI analysis of shipment lead times, delay rates, inventory days, and SKU performance for a retail logistics context.
@@ -57,18 +66,17 @@ I’ve built and analyzed models across industries — from customer churn and i
 
 ## 📈 Currently Exploring
 
-- Streamlit & dashboard deployment
-- Data storytelling with Tableau and Power BI
-- Model interpretability (SHAP, feature importance)
-- Data pipelines & workflow automation
+- Dashboard deployment with Streamlit
+- Power BI data storytelling
+- Model interpretability (feature importance, SHAP)
+- Data pipelines and workflow automation
 
 ---
 
 ## 📬 Get in Touch
 
-- 📧 Email: yievia@gmail.com  
+- 📧 Email: yievia@gmail.com
+- 💼 LinkedIn: [View Here](https://www.linkedin.com/in/ng-xin-yie)
 - 🗂️ DataCamp Portfolio: [View Here](https://www.datacamp.com/portfolio/yievia)
 
 ---
-
-_Thanks for visiting! Let’s connect and collaborate on impactful data projects!_
